@@ -1,0 +1,7 @@
+flask
+mediapipe
+tensorflow
+Werkzeug
+keras
+opencv-python
+numpy
