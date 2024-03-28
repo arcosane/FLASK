@@ -121,4 +121,4 @@ def model_predict(test_video_path, model):
         print(f"Frame {i + 1}: {action}")
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=False)

@@ -5,3 +5,4 @@ Werkzeug
 keras
 opencv-python
 numpy
+gunicorn
